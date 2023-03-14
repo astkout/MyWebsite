@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 120%;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-weight: normal;
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.topc {
+   background-color:#E4F9F5;;
+   position: relative;
+   padding-top: 100px;
+}
+
+.topcld {
+    position: absolute;
+    padding-top: 20px;
+    right: 300px;
+    top: 50px;
+}
+
+.btmcld {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.studying-img {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.coding-img {
+    float: right;
+    width: 25%;
+    margin-right: 30px;
+}
+
